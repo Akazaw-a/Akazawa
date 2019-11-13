@@ -45,49 +45,13 @@ h1 {
     margin-right: auto;
     padding-bottom: 80px;
 }
-/* ここまでぱくんちでやったとこ */
 
-/* .img-table {
-    float: left;
-    width: 50%;
-}
-
-.text-table {
-    height: 355px;
-    font-size: 14px;
-    padding-left: 100px;
-    padding-right: 100px;
-    /* margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0%;
-    scroll-margin-inline-end: 0%; 
-    見本見たらこうなってたけど真似ても同じ様にならなかった…*/
-/* }
-
-.table {
-    background-color: rgb(225, 225, 225);
-}
-
-.img-car {
-    width: 50%;
-    float: left;
-}
-
-.text-car {
-    height: 355px;
-    font-size: 14px;
-    padding-left: 100px;
-    padding-right: 100px;
-    float: left;
-}
-
-.car {
-    background-color: rgb(225, 225, 225); */
 
 .f-container1 {
     background-color: #e1e1e1;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .f-container2 {
@@ -97,7 +61,8 @@ h1 {
 }
 
 .f-img-1 {
-    width: 50%;
+width: 569px;
+height: 300ox;
 }
 
 .f-text-1 {
@@ -115,5 +80,6 @@ h1 {
 }
 
 .f-img-2 {
-    width: 50%;
+width: 569px;
+height: 300px;
 }
